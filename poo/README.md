@@ -16,4 +16,8 @@
 
 ## Diagrama
 
+![Diagrama UML](https://github.com/DanielPaes/dio-trilha-java-basico/blob/main/poo/UML_iPhone.png)
+
+Diagrama construído com o software open source Gaphor. Disponpível em https://gaphor.org/
+
 
